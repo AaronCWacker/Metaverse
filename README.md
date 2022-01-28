@@ -6,6 +6,7 @@ AI 3D Modeling, Avatars, Immersive Spaces, AR/VR/XR, Human-Centered Personalizat
 ## Second Life
 First popular massive multiplayer world featuring economy, and real time development of 3D assets, worlds, and avatars
 Still going strong today and is most successful continual world wide metaverse
+Secondlife's 3D objects allowed creators to sell digital 3D content containing tokens for rights of ownership (copy, purchase, etc) using NFT's
 
 ## AltspaceVR
 Since 2018 major contributions to shared VR space.  Now features 2D join capability with saved personalization using MS account
