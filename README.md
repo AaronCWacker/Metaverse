@@ -23,3 +23,9 @@ Written primarily with Unity or Unreal Engine
 
 ## Open Source 3D Immersive Worlds
 Mozilla Hubs:  https://hubs.mozilla.com/TU99HWo/delectable-evil-gathering/
+
+
+
+# Avatars and 3D Digital Twins
+## Creating from photograph using PIFUHD
+https://github.com/facebookresearch/pifuhd
