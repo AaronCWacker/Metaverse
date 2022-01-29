@@ -12,6 +12,7 @@ https://en.wikipedia.org/wiki/Second_Life
 
 ## AltspaceVR
 Since 2018 major contributions to shared VR space.  Now features 2D join capability with saved personalization using MS account
+https://en.wikipedia.org/wiki/AltspaceVR
 
 ## Microsoft Mesh
 2022 new product and stack of MS product offerings for metaverse.
