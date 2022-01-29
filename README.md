@@ -8,6 +8,7 @@ First popular massive multiplayer world featuring economy, and real time develop
 Still going strong today and is most successful continual world wide metaverse
 Secondlife's 3D objects allowed creators to sell digital 3D content containing tokens for rights of ownership (copy, purchase, etc) using NFT's
 Economy and size of community produced its success.
+https://en.wikipedia.org/wiki/Second_Life
 
 ## AltspaceVR
 Since 2018 major contributions to shared VR space.  Now features 2D join capability with saved personalization using MS account
