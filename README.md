@@ -43,6 +43,13 @@ Google unveils VR Telepresence Video Chat which transfers 3D body scan with imag
 Microsoft unveils a metaverse stack including evolution of Altspace with new multiple product stack for digital spaces
 
 
+# Wikipedia Metaverse Definition
+A metaverse is a network of 3D virtual worlds focused on social connection.[1][2][3] In futurism and science fiction, the term is often described as a hypothetical iteration of the Internet as a single, universal virtual world that is facilitated by the use of virtual and augmented reality headsets.[4][1]
+
+The term "metaverse" has its origins in the 1992 science fiction novel Snow Crash as a portmanteau of "meta" and "universe." Various metaverses have been developed for popular use such as virtual world platforms like Second Life.[5] Some metaverse iterations involve integration between virtual and physical spaces and virtual economies,[1] often including a significant interest in advancing virtual reality technology.[6][7][8]
+
+The term has seen considerable use as a buzzword[4][9] for public relations purposes to exaggerate development progress for various related technologies and projects.[10] Information privacy and user addiction are concerns within metaverses, stemming from challenges facing the social media and video game industries as a whole.[11][4][12]
+
 
 
 
